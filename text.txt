@@ -1,2 +1,1 @@
-this is a demo file 
-ruby 2.7 rails 6 rvm 1.29.9 psql 9.5
+this is a demo file
